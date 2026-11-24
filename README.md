@@ -37,21 +37,21 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <h4>🎨 Portostar Portfolio</h4>
+      <h4>Portostar Portfolio</h4>
       <p>Personal portfolio website</p>
       <a href="https://faysal-mahamud.github.io/portostar-portfolio/"><img src="https://raw.githubusercontent.com/faysal-mahamud/faysal-mahamud/main/assets/live-demo.svg" alt="Live Demo" /></a>
       <br/>
       <a href="https://github.com/faysal-mahamud/portostar-portfolio"><img src="https://raw.githubusercontent.com/faysal-mahamud/faysal-mahamud/main/assets/source-code.svg" alt="Source Code" /></a>
     </td>
     <td align="center" width="33%">
-      <h4>💼 Creative Agency</h4>
+      <h4>Creative Agency</h4>
       <p>Digital agency landing page</p>
       <a href="https://faysal-mahamud.github.io/creative-agency-landing/"><img src="https://raw.githubusercontent.com/faysal-mahamud/faysal-mahamud/main/assets/live-demo.svg" alt="Live Demo" /></a>
       <br/>
       <a href="https://github.com/faysal-mahamud/creative-agency-landing"><img src="https://raw.githubusercontent.com/faysal-mahamud/faysal-mahamud/main/assets/source-code.svg" alt="Source Code" /></a>
     </td>
     <td align="center" width="33%">
-      <h4>🧹 ProCleaning</h4>
+      <h4>ProCleaning</h4>
       <p>Cleaning services website</p>
       <a href="https://faysal-mahamud.github.io/procleaning-services/"><img src="https://raw.githubusercontent.com/faysal-mahamud/faysal-mahamud/main/assets/live-demo.svg" alt="Live Demo" /></a>
       <br/>
